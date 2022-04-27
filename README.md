@@ -1,2 +1,6 @@
 # ProdConsBufferProblem
-Exchanges data between Producer and Consumer with the help of buffer size 10
+Exchanges data between Producer and Consumer with the help of buffer size of 10
+
+
+compile: javac Task1.java
+usage: java Task1
